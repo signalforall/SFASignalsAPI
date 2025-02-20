@@ -1,2 +1,2 @@
 # SFASignalsAPI
-SFA App signalforall.com  token.signalforall.com
+SFA App https://signalforall.com  https://token.signalforall.com
